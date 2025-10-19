@@ -1,0 +1,32 @@
+{
+  "company": "HNB-24-Annual",
+  "source_file": "d:\\Projects\\CSE\\financial_extractor\\originals\\HNB-24-Annual.txt",
+  "processed_at": "2025-10-19T10:33:26.712827",
+  "statements": {
+    "balance_sheet": {
+      "status": "extraction_failed",
+      "section_length": 737
+    },
+    "income_statement": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB-24-Annual\\income_statement.csv",
+      "rows": 18,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    },
+    "cash_flow": {
+      "status": "extraction_failed",
+      "section_length": 3351
+    },
+    "equity_statement": {
+      "status": "extraction_failed",
+      "section_length": 3179
+    }
+  }
+}

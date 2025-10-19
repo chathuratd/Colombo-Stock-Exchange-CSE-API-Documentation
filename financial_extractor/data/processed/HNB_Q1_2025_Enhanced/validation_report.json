@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-19T11:00:50.170770",
+  "overall_confidence": 0.3125,
+  "issues": [
+    "Column Group_2024: 33.3% missing values",
+    "Balance Sheet: 'Total Assets' row not found",
+    "Column Bank_2024: 35.3% missing values",
+    "Column Group_2025: 75.0% missing values",
+    "Column Group_2025: All non-zero values are identical",
+    "Column Group_2024: 100.0% missing values",
+    "Column Bank_2024: 100.0% missing values",
+    "Column Bank_2023: 100.0% missing values",
+    "Column Group_2023: 100.0% missing values"
+  ],
+  "warnings": [
+    "Balance Sheet: No 'Assets' section found",
+    "Balance Sheet: No 'Liabilities' or 'Equity' found",
+    "Cash Flow: No 'Operating Activities' section found",
+    "cash_flow: Data completeness 65.0% (threshold: 80%)",
+    "equity_statement: Data completeness 40.0% (threshold: 80%)"
+  ],
+  "statement_validations": {
+    "balance_sheet": {
+      "valid": false,
+      "confidence_score": 40.0,
+      "errors": [
+        "Column Group_2024: 33.3% missing values",
+        "Balance Sheet: 'Total Assets' row not found"
+      ],
+      "warnings": [
+        "Balance Sheet: No 'Assets' section found",
+        "Balance Sheet: No 'Liabilities' or 'Equity' found"
+      ],
+      "checks": {
+        "column_structure": {
+          "passed": true,
+          "issues": []
+        },
+        "year_headers": {
+          "passed": true,
+          "issues": [
+            "Column 'Bank_2025' does not contain a clear year identifier",
+            "Column 'Bank_2024' does not contain a clear year identifier",
+            "Column 'Group_2025' does not contain a clear year identifier",
+            "Column 'Group_2024' does not contain a clear year identifier"
+          ],
+          "years_found": []
+        },
+        "numeric_data": {
+          "passed": false,
+          "issues": [
+            "Column Group_2024: 33.3% missing values"
+          ]
+        },
+        "balance": {
+          "passed": false,
+          "issues": [
+            "Balance Sheet: 'Total Assets' row not found"
+          ],
+          "balances": []
+        },
+        "statement_specific": {
+          "passed": false,
+          "issues": [
+            "Balance Sheet: No 'Assets' section found",
+            "Balance Sheet: No 'Liabilities' or 'Equity' found"
+          ]
+        },
+        "completeness": {
+          "score": 89.33333333333333,
+          "total_cells": 75,
+          "filled_cells": 

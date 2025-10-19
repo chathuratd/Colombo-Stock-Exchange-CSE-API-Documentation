@@ -1,0 +1,57 @@
+{
+  "company": "HNB_Q1_2025_Enhanced",
+  "extraction_date": "2025-10-19T11:00:50.092880",
+  "metrics": {
+    "share_info": {
+      "outstanding_shares": 31.0,
+      "authorized_shares": null,
+      "market_capitalization": {
+        "value": 95.96,
+        "unit": "Bn"
+      },
+      "share_price_range": {},
+      "float": null
+    },
+    "eps": {},
+    "dividends": {
+      "dividends_declared": [],
+      "total_dividend_per_share": null,
+      "dividend_payout_ratio": null,
+      "dividend_yield": null
+    },
+    "nav_per_share": {},
+    "market_info": {
+      "market_capitalization": null,
+      "pe_ratio": null,
+      "pb_ratio": null,
+      "stock_exchange": [
+        "Colombo Stock Exchange"
+      ]
+    },
+    "capital_adequacy": {},
+    "financial_ratios": {},
+    "governance": {
+      "board_size": null,
+      "independent_directors": null,
+      "audit_committee": false,
+      "risk_committee": false
+    },
+    "risk_factors": [
+      "024, while the Stage 3 coverage ratio strengthened to 75.12%.\nThe total operating expenses rose by 13.5% YoY primarily driven by the increase in staff cost\nas a result of the realignment of compensati",
+      "024, HNB was honoured as the \u2018No. 1 Corporate in Sri Lanka\u2019 in the \u2018Business Today Top 40\u2019\nrankings. Other significant accolades include being named the \u2018Best Retail Bank in Sri Lanka\u2019\nby The Asian Ba"
+    ],
+    "outlook": {
+      "section_found": false,
+      "summary": null
+    },
+    "segment_analysis": {},
+    "related_party": {
+      "disclosed": false,
+      "note_reference": null
+    },
+    "calculated": {
+      "revenue_growth_pct": 130.21346227555503,
+      "net_profit_margin_pct": -2183.465566961017
+    }
+  }
+}

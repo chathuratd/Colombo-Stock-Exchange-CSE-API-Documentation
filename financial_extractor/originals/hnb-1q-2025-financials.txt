@@ -1,0 +1,7666 @@
+For the three months ended 31st March 2025
+
+FINANCIAL COMMENTARY FOR THE PERIOD ENDED 31ST MARCH 2025
+•
+•
+•
+•
+
+Sets a strong foundation for robust growth
+Maintains strong capital buffers of over 800 bps against the regulatory requirement
+Asset quality continues to improve further with Net Stage 3 ratio at 1.82%
+Integrates the fully owned investment banking business under the group
+
+HNB continued its growth trajectory in Q1 2025, recording a YoY growth of 49% in Group Profit
+After Tax (PAT) and a 64% growth in Bank PAT with Group and Bank PAT at Rs 11.1 Bn and Rs
+10.2 Bn, respectively.
+Bank’s Net Interest Income (NII) grew by 7.7% YoY to Rs 23.7 Bn during the first quarter in the
+backdrop of lower interest rates compared to the corresponding period of 2024. Despite the
+loan book growing by Rs 159 Bn YoY, interest income recorded a drop of 14.4% YoY.
+Nevertheless, the interest expenses dropped at a higher rate of 27.1% YoY supported by a
+steady growth in CASA deposits, resulting in the growth in NII.
+Net fee and commission income experienced a 17.0% YoY increase, largely driven by higher
+card usage and a surge in digital transactions, underscoring HNB’s continued commitment to
+promoting a cashless economy. Additionally, other income comprising largely of exchange
+income surged to Rs 2.3 Bn, mainly due to the depreciation of the Sri Lankan rupee. From a
+loss of Rs 2.1 Bn recorded in the corresponding period of 2024.
+Driven by the Bank’s robust risk management framework and intensified recovery efforts,
+asset quality continued to show notable improvement. Reflecting the success of these
+initiatives, the Bank witnessed a positive movement in its stage 3 portfolio resulting in a total
+impairment reversal of Rs 379.7 Mn, compared to a charge of Rs 1.4 Bn in the corresponding
+period last year. Accordingly, the Net Stage 3 ratio improved to 1.82%, from 1.88% in December
+2024, while the Stage 3 coverage ratio strengthened to 75.12%.
+The total operating expenses rose by 13.5% YoY primarily driven by the increase in staff cost
+as a result of the realignment of compensation and the performance-based pay structure.
+During the first quarter of 2025, the Bank’s asset base surpassed Rs 2.1 Tn, reflecting a 3.4%
+expansion up to March 2025. Total gross loans and advances grew by Rs 14.4 Bn during the
+quarter, in contrast to the Rs 26.5 Bn contraction recorded in Q1 2024. Additionally, the Bank’s
+deposit base grew by Rs 7.8 Bn, reaching Rs 1.72 Tn.
+During the quarter, the Bank completed the acquisition of the remaining 50% stake in HNB
+Investment Bank from DFCC PLC and took part in HNB Finance PLC’s rights issue—further
+solidifying its standing as the most diversified financial services conglomerate in the Country.
+Despite these strategic investments, the Bank maintained strong capital buffers with Tier 1
+and Total Capital Adequacy ratios at 17.60% and 21.89%, respectively, well above the
+minimum statutory requirements of 9.5% and 13.5%. Additionally, the Bank maintained a strong
+liquidity position, with an all currency Liquidity Coverage Ratio of 364.49%, well above the
+regulatory minimum requirement of 100%.
+Following the completion of the external debt restructuring program, Fitch Ratings Lanka Ltd
+upgraded HNB’s credit rating to AA-(lka) as part of the rating recalibration in January 2025. In
+2024, HNB was honoured as the ‘No. 1 Corporate in Sri Lanka’ in the ‘Business Today Top 40’
+rankings. Other significant accolades include being named the ‘Best Retail Bank in Sri Lanka’
+by The Asian Banker, marking the 15th occasion the Bank has received this coveted title.
+2
+
+INCOME STATEMENT
+Bank
+
+Group
+
+For the 3 months ended 31st March
+
+For the 3 months ended 31st March
+
+2025
+
+2024 Increase /
+(Decrease)
+
+2025
+
+2024
+
+Increase /
+(Decrease)
+
+%
+
+Rs 000
+
+Rs 000
+
+%
+
+Rs 000
+
+Rs 000
+
+Gross income
+
+58,784,320
+
+62,352,602
+
+(6)
+
+71,489,159
+
+71,926,490
+
+(1)
+
+Interest income
+
+51,559,402
+
+60,215,710
+
+(14)
+
+57,713,922
+
+64,476,658
+
+(10)
+
+Less : Interest expenses
+
+27,873,328
+
+38,225,235
+
+(27)
+
+29,802,920
+
+39,142,361
+
+(24)
+
+Net interest income
+
+23,686,074
+
+21,990,475
+
+8
+
+27,911,002
+
+25,334,297
+
+10
+
+Fee and commission income
+
+4,941,795
+
+4,246,596
+
+16
+
+5,582,658
+
+4,520,433
+
+23
+
+Less: Fee and commission expenses
+
+141,125
+
+142,567
+
+(1)
+
+234,343
+
+178,731
+
+31
+
+Net fee and commission income
+
+4,800,670
+
+4,104,029
+
+17
+
+5,348,315
+
+4,341,702
+
+23
+
+Net interest, fee and commission income
+
+28,486,744
+
+26,094,504
+
+9
+
+33,259,317
+
+29,675,999
+
+12
+
+Net gains / (losses) from trading
+
+489,552
+
+(4,139,455)
+
+112
+
+712,833
+
+(4,064,011)
+
+118
+
+Net gains from financial investments at fair value
+through other comprehensive income
+
+402,296
+
+329,411
+
+22
+
+452,895
+
+365,175
+
+24
+
+-
+
+Net insurance premium income
+
+-
+
+5,404,320
+
+4,305,103
+
+26
+
+Net other operating income
+
+1,391,275
+
+1,700,340
+
+(18)
+
+1,622,531
+
+2,323,132
+
+(30)
+
+Total operating income
+
+30,769,867
+
+23,984,800
+
+28
+
+41,451,896
+
+32,605,398
+
+27
+
+Less: Impairment charge / (reversal) for loans and
+other losses
+Net operating income
+
+-
+
+(379,712)
+
+1,371,566
+
+(128)
+
+(194,307)
+
+1,634,788
+
+(112)
+
+31,149,579
+
+22,613,234
+
+38
+
+41,646,203
+
+30,970,610
+
+34
+
+5,646,132
+
+4,643,374
+
+22
+
+7,110,934
+
+5,779,862
+
+23
+
+824,775
+
+747,155
+
+10
+
+1,060,491
+
+948,815
+
+12
+
+-
+
+-
+
+-
+
+5,821,172
+
+4,730,653
+
+23
+
+Less : Operating expenses
+Personnel expenses
+Depreciation and amortisation
+Benefits, claims and underwriting expenditure
+Other expenses
+
+4,733,245
+
+4,477,033
+
+6
+
+6,106,615
+
+5,831,368
+
+5
+
+Total operating expenses
+
+11,204,152
+
+9,867,562
+
+14
+
+20,099,212
+
+17,290,698
+
+16
+
+Operating profit before taxes on financial services
+
+19,945,427
+
+12,745,672
+
+56
+
+21,546,991
+
+13,679,912
+
+58
+
+Less : Taxes on financial services
+
+4,324,105
+
+2,943,909
+
+47
+
+4,678,111
+
+3,071,258
+
+52
+
+Operating profit after taxes on financial services
+
+15,621,322
+
+9,801,763
+
+59
+
+16,868,880
+
+10,608,654
+
+59
+
+-
+
+198,353
+
+633,678
+
+(69)
+
+Share of profit of associate/ joint venture (net of
+income tax)
+
+-
+
+-
+
+PROFIT BEFORE INCOME TAX
+
+15,621,322
+
+9,801,763
+
+59
+
+17,067,233
+
+11,242,332
+
+52
+
+Less: Income tax expense
+
+5,392,026
+
+3,564,453
+
+51
+
+6,011,933
+
+3,821,959
+
+57
+
+PROFIT FOR THE PERIOD
+
+10,229,296
+
+6,237,310
+
+64
+
+11,055,300
+
+7,420,373
+
+49
+
+10,229,296
+
+6,237,310
+
+Profit attributable to:
+Equity holders of the Bank
+Non-controlling interests
+PROFIT FOR THE PERIOD
+
+-
+
+-
+
+64
+
+10,698,314
+
+7,208,538
+
+48
+
+-
+
+356,986
+
+211,835
+
+69
+
+10,229,296
+
+6,237,310
+
+64
+
+11,055,300
+
+7,420,373
+
+49
+
+Basic earnings per ordinary share (Rs)
+
+17.89
+
+10.91
+
+64
+
+18.71
+
+12.61
+
+48
+
+Diluted earnings per ordinary share (Rs)
+
+17.89
+
+10.91
+
+64
+
+18.71
+
+12.61
+
+48
+
+Earnings per share
+
+3
+
+STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+Bank
+For the 3 months ended 31st March
+2025
+2024 Increase /
+(Decrease)
+Rs 000
+Rs 000
+%
+
+Group
+For the 3 months ended 31st March
+2025
+2024 Increase /
+(Decrease)
+Rs 000
+Rs 000
+%
+
+10,229,296
+
+6,237,310
+
+64
+
+11,055,300
+
+7,420,373
+
+49
+
+(468,489)
+
+(203,502)
+
+130
+
+(468,489)
+
+(203,502)
+
+130
+
+-
+
+-
+
+-
+
+65,817
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(468,489)
+
+(203,502)
+
+130
+
+(402,672)
+
+(203,502)
+
+98
+
+Net gains / (losses) on investments in debt instruments measured
+at fair value through other comprehensive income
+
+587,721
+
+3,083,661
+
+(81)
+
+637,464
+
+2,766,883
+
+(77)
+
+Reclassification of net gains / (losses) on de-recognition of debt
+instruments at fair value through other comprehensive income to
+income statement
+
+-
+
+-
+
+-
+
+(45,469)
+
+-
+
+-
+
+Net change in expected credit losses of debt securities measured
+at fair value through other comprehensive income
+
+88,057
+
+-
+
+-
+
+88,057
+
+-
+
+-
+
+Transfer to / (from) life policy holder reserve fund
+
+-
+
+-
+
+-
+
+(48,756)
+
+(229,932)
+
+(79)
+
+Share of other comprehensive income of associate / joint venture
+that will be reclassified to profit or loss
+
+-
+
+-
+
+-
+
+(57,337)
+
+(88,937)
+
+(36)
+
+(20,763)
+
+-
+
+-
+
+PROFIT FOR THE PERIOD
+Other comprehensive income that will not be reclassified to
+profit or loss in subsequent periods
+Change in fair value of investments in equity instruments
+designated at fair value through other comprehensive income
+Revaluation gain on freehold land and buildings
+Less: Tax expense relating to items that will not be reclassified to
+profit or loss
+Total other comprehensive income that will not be reclassified
+to profit or loss
+Other comprehensive income that will be reclassified to profit or
+loss in subsequent periods
+Debt instruments at fair value through other comprehensive
+income :
+
+Foreign Currency Conversion Adjustments
+Less: Tax expense relating to items that will be reclassified to
+profit or loss
+
+(176,316)
+
+(925,098)
+
+(81)
+
+(173,189)
+
+(926,671)
+
+(81)
+
+Total other comprehensive income that will be reclassified to
+profit or loss
+
+499,462
+
+2,158,563
+
+(77)
+
+380,007
+
+1,521,344
+
+(75)
+
+OTHER COMPREHENSIVE INCOME FOR THE PERIOD, NET OF TAX
+
+30,974
+
+1,955,061
+
+(98)
+
+(22,665)
+
+1,317,842
+
+(102)
+
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD, NET OF TAX
+
+10,260,270
+
+8,192,371
+
+25
+
+11,032,635
+
+8,738,215
+
+26
+
+10,260,269
+
+8,192,371
+
+25
+
+10,697,935
+
+8,745,693
+
+22
+
+334,700
+
+(7,478)
+
+4,576
+
+11,032,635
+
+8,738,215
+
+26
+
+Total comprehensive income attributable to:
+Equity holders of the Bank
+Non-controlling interests
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD, NET OF TAX
+
+10,260,269
+
+4
+
+8,192,371
+
+25
+
+STATEMENT OF FINANCIAL POSITION
+Bank
+
+Group
+
+As at
+
+As at
+
+31.03.2025
+
+31.12.2024
+(Audited)
+
+Rs 000
+
+Rs 000
+
+Cash and cash equivalents
+
+52,113,869
+
+63,356,259
+
+Placements with banks
+
+73,491,497
+
+41,858,517
+
+Balances with Central Bank of Sri Lanka
+
+16,772,672
+
+6,913,009
+
+Increase /
+(Decrease)
+%
+
+As at
+
+As at
+
+31.03.2025
+
+31.12.2024
+(Audited)
+
+Increase /
+(Decrease)
+
+Rs 000
+
+Rs 000
+
+%
+
+(18)
+
+52,882,209
+
+64,065,041
+
+(17)
+
+76
+
+83,409,202
+
+48,656,010
+
+71
+
+143
+
+16,854,803
+
+6,913,009
+
+144
+
+-
+
+ASSETS
+
+Reverse repurchase agreements
+
+-
+
+-
+
+11,138,759
+
+5,280,692
+
+111
+
+Derivative financial instruments
+
+425,489
+
+375,060
+
+13
+
+425,489
+
+375,060
+
+13
+
+3,631,330
+
+1,835,469
+
+98
+
+58,424,609
+
+2,962,612
+
+1,872
+
+Financial assets measured at fair value through profit or loss
+Financial assets measured at amortised cost - loans and
+advances to customers
+
+1,078,106,343
+
+1,063,675,345
+
+1
+
+1,124,653,036
+
+1,104,013,319
+
+2
+
+Financial assets measured at amortised cost - debt and other
+financial instruments
+
+755,847,992
+
+741,761,201
+
+2
+
+791,229,744
+
+770,020,546
+
+3
+
+Financial assets measured at fair value through other
+comprehensive income
+
+98,531,667
+
+96,309,470
+
+2
+
+114,665,372
+
+112,407,299
+
+2
+
+5,553,026
+
+(100)
+
+Investment in joint venture
+
+-
+
+755,000
+
+(100)
+
+Investment in associate
+
+-
+
+-
+
+-
+
+Investment in subsidiaries
+Investment properties
+
+10,785,759
+
+5,818,404
+
+3,017,285
+
+257
+
+-
+
+-
+
+-
+
+-
+
+-
+
+452,435
+
+453,769
+
+-
+
+860,260
+
+868,188
+
+(1)
+
+Property, plant and equipment
+
+30,098,474
+
+30,126,467
+
+-
+
+56,947,253
+
+55,467,867
+
+3
+
+Right-of-use assets
+
+4,798,724
+
+4,512,346
+
+6
+
+2,770,777
+
+2,302,947
+
+20
+
+Intangible assets and goodwill
+
+1,311,681
+
+1,322,941
+
+(1)
+
+2,988,105
+
+1,808,753
+
+65
+
+Deferred tax assets
+
+3,410,885
+
+3,393,785
+
+1
+
+3,985,488
+
+3,941,633
+
+1
+
+Other assets
+
+20,187,649
+
+18,872,133
+
+7
+
+29,264,506
+
+24,537,698
+
+19
+
+Total assets
+
+2,149,966,466
+
+2,078,538,056
+
+3
+
+2,356,318,016
+
+2,209,173,700
+
+7
+
+11,982,724
+
+6,595,571
+
+82
+
+12,829,538
+
+6,595,571
+
+95
+
+453,603
+
+1,573,417
+
+(71)
+
+453,603
+
+1,573,417
+
+(71)
+
+LIABILITIES
+Due to banks
+Derivative financial instruments
+Securities sold under repurchase agreements
+Financial liabilities measured at amortised cost - due to
+depositors
+
+71,710,711
+
+26,486,104
+
+171
+
+124,623,420
+
+26,486,104
+
+371
+
+1,723,271,845
+
+1,715,484,127
+
+-
+
+1,760,150,046
+
+1,750,259,233
+
+1
+
+Financial liabilities measured at amortised cost - other
+borrowings
+
+19,190,121
+
+19,740,135
+
+21,975,448
+
+19,742,152
+
+11
+
+447,543
+
+448,108
+
+15,833,768
+
+11,387,381
+
+39
+
+Debt securities issued
+Current tax liabilities
+
+13,971,006
+
+-
+
+(3)
+-
+
+10,435,749
+
+34
+
+-
+
+Deferred tax liabilities
+
+-
+
+-
+
+-
+
+6,801,691
+
+6,731,283
+
+1
+
+Insurance provision - life
+
+-
+
+-
+
+-
+
+42,318,435
+
+38,877,712
+
+9
+
+Insurance provision - non life
+
+-
+
+-
+
+-
+
+4,893,579
+
+4,507,058
+
+9
+
+Other provisions
+
+14,099,759
+
+19,523,788
+
+(28)
+
+16,135,742
+
+20,306,114
+
+(21)
+
+Other liabilities
+
+33,283,313
+
+19,045,663
+
+75
+
+41,342,770
+
+22,542,909
+
+83
+
+28,841,157
+
+28,174,227
+
+2
+
+32,709,188
+
+29,967,185
+
+9
+
+1,916,804,239
+
+1,847,058,781
+
+4
+
+2,080,514,771
+
+1,939,424,227
+
+7
+
+Subordinated term debts
+Total liabilities
+
+5
+
+STATEMENT OF FINANCIAL POSITION
+Bank
+
+Group
+
+As at
+
+As at
+
+31.03.2025
+
+31.12.2024
+
+Increase /
+(Decrease)
+
+(Audited)
+Rs 000
+
+Rs 000
+
+Stated capital
+
+42,858,227
+
+42,858,227
+
+Statutory reserve fund
+
+12,610,000
+
+12,610,000
+
+Retained earnings
+
+78,659,711
+
+77,316,202
+
+As at
+
+As at
+
+31.03.2025
+
+31.12.2024
+(Audited)
+
+%
+
+Increase /
+(Decrease)
+
+Rs 000
+
+Rs 000
+
+%
+
+-
+
+42,858,226
+
+42,858,227
+
+-
+
+-
+
+12,610,000
+
+12,610,000
+
+-
+
+2
+
+93,163,321
+
+91,384,909
+
+114,898,730
+
+114,507,771
+
+1
+
+263,530,277
+
+261,360,907
+
+1
+
+EQUITY
+
+Other reserves
+
+99,034,289
+
+98,694,846
+
+Total shareholders’ equity
+
+233,162,227
+
+231,479,275
+
+Non-controlling interests
+
+12,272,968
+
+8,388,566
+
+46
+
+231,479,275
+
+1
+
+275,803,245
+
+269,749,473
+
+2
+
+2,149,966,466
+
+2,078,538,056
+
+3
+
+2,356,318,016
+
+2,209,173,700
+
+7
+
+Contingent liabilities and commitments
+
+848,374,009
+
+867,243,839
+
+(2)
+
+848,374,009
+
+867,243,839
+
+(2)
+
+Net assets value per ordinary share (Rs.)
+
+407.75
+
+404.81
+
+1
+
+460.86
+
+457.07
+
+1
+
+5,711
+
+5,577
+
+254
+
+254
+
+-
+
+-
+
+-
+
+-
+
+Total equity and liabilities
+
+-
+
+-
+
+-
+
+233,162,227
+
+Total equity
+
+-
+
+-
+
+2
+
+Memorandum Information
+Number of Employees
+Number of Customer Centers
+
+CERTIFICATION
+I certify that the above financial statements are in compliance with the requirements of the Companies Act No. 7 of 2007 and give a true and fair
+view of the state of affairs of Hatton National Bank PLC and the Group as at 31st March 2025 and its profit for the period ended
+31st March 2025.
+
+-sgdAnuradhi Delage
+Senior Vice President / Chief Financial Officer
+08th May 2025
+We the undersigned, being the Managing Director/Chief Executive Officer and the Chairman of Hatton National Bank PLC certify jointly that :
+(a) the above statements have been prepared in compliance with the formats and definitions prescribed by the Central Bank of Sri Lanka;
+(b) the information contained in these statements have been extracted from the unaudited financial statements of the Bank and it's Subsidiary
+Companies unless indicated as audited.
+
+-sgd-
+
+-sgd-
+
+Damith Pallewatte
+Managing Director/Chief Executive Officer
+08th May 2025
+
+Nihal Jayawardena
+Chairman
+08th May 2025
+
+6
+
+STATEMENT OF CHANGES IN EQUITY - BANK
+Stated Capital
+Voting
+Non-Voting
+Shares
+Shares
+For the 3 months ended 31st March 2025
+Balance as at 1st January 2025
+
+Statutory
+Reserve
+
+Capital
+Reserve
+
+Fair value
+Reserve
+
+Other Reserves
+Special
+Reserve
+
+General
+Reserve
+
+Retained
+Earnings
+
+Total
+Equity
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+35,072,240
+
+7,785,987
+
+12,610,000
+
+17,240,454
+
+11,805,828
+
+9,548,564
+
+60,100,000
+
+77,316,202
+
+231,479,275
+
+10,229,296
+
+10,229,296
+
+Total comprehensive income for the period
+Net profit for the period
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Other comprehensive income for the period, net of tax
+
+-
+
+-
+
+-
+
+-
+
+30,974
+
+-
+
+-
+
+Total comprehensive income for the period
+
+-
+
+-
+
+-
+
+-
+
+30,974
+
+-
+
+-
+
+10,229,296
+
+10,260,270
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(8,577,318)
+
+(8,577,318)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(8,577,318)
+
+(8,577,318)
+
+-
+
+30,974
+
+Transactions with equity holders, recognised directly in equity
+Contributions by and distributions to equity holders
+Dividends to equity holders
+Final dividend 2024 - Cash
+Total contributions by and distributions
+to equity holders
+Transfers during the period
+Balance as at 31st March 2025
+
+For the 3 months ended 31st March 2024
+Balance as at 1st January 2024
+
+35,072,240
+
+-
+
+-
+
+-
+
+-
+
+308,469
+
+-
+
+(308,469)
+
+-
+
+7,785,987
+
+12,610,000
+
+17,240,454
+
+11,836,802
+
+9,857,033
+
+60,100,000
+
+78,659,711
+
+233,162,227
+
+Stated Capital
+Voting
+Non-Voting
+Shares
+Shares
+
+Statutory
+Reserve
+
+Capital
+Reserve
+
+Fair value
+Reserve
+
+Other Reserves
+Special
+Reserve
+
+General
+Reserve
+
+Retained
+Earnings
+
+Total
+Equity
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+59,100,000
+
+56,311,574
+
+184,977,177
+
+6,237,310
+
+6,237,310
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+33,553,624
+
+7,401,492
+
+10,410,000
+
+13,927,316
+
+4,273,171
+
+Total comprehensive income for the period
+Net profit for the period
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Other comprehensive income for the period, net of tax
+
+-
+
+-
+
+-
+
+-
+
+1,955,061
+
+-
+
+-
+
+-
+
+Total comprehensive income for the period
+
+-
+
+-
+
+-
+
+-
+
+1,955,061
+
+-
+
+-
+
+6,237,310
+
+8,192,371
+
+-
+
+1,955,061
+
+Transactions with equity holders, recognised directly in equity
+Contributions by and distributions to equity holders
+Dividends to equity holders
+Final dividend 2023 - Cash
+Final dividend 2023 - Scrip
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2,238,954)
+
+(2,238,954)
+
+1,518,616
+
+-
+
+384,495
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2,238,954)
+
+(335,843)
+
+1,518,616
+
+384,495
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(4,477,908)
+
+(2,574,797)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total contributions by and distributions
+to equity holders
+Transfers during the period
+Balance as at 31st March 2024
+
+35,072,240
+
+7,785,987
+
+10,410,000
+
+7
+
+13,927,316
+
+6,228,232
+
+-
+
+59,100,000
+
+58,070,976
+
+190,594,751
+
+STATEMENT OF CHANGES IN EQUITY - GROUP
+Stated Capital
+
+For the 3 months ended 31st March 2025
+
+Balance as at 1st January 2025
+Acqusition of Subsidiary
+
+Other Reserves
+
+Voting
+
+Non-Voting
+
+Statutory
+
+Capital
+
+General
+
+Fair value
+
+Special
+
+Life Policy
+
+Restricted
+
+Exchange
+
+Retained
+
+Shareholders'
+
+Non
+
+Total
+
+Shares
+
+Shares
+
+Reserve
+
+Reserve
+
+Reserve
+
+Reserve
+
+Reserve
+
+Holder
+
+Regulatory
+
+Equalization
+
+Earnings
+
+Funds
+
+Controlling
+
+Equity
+
+Reserve Fund
+
+Reserve
+
+Reserve
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+35,072,240
+
+7,785,986
+
+12,610,000
+
+32,325,287
+
+60,100,000
+
+11,649,447
+
+9,548,564
+
+91,384,909
+
+261,360,905
+
+8,388,566
+
+269,749,471
+
+3,130,321
+
+3,130,321
+
+11,055,300
+
+201,549
+
+381,156
+
+301,767
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+5,987
+
+-
+
+-
+
+-
+
+27,748
+
+-
+
+5,987
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+308,469
+9,857,033
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Net profit for the period
+
+-
+
+-
+
+Other comprehensive income for the period, net of tax
+
+-
+
+-
+
+-
+
+-
+
+-
+
+27,748
+
+Total comprehensive income for the period
+
+-
+
+-
+
+-
+
+Final dividend 2024 - Cash
+Effect of right issue by subsidiary - HNB Finance PLC
+
+-
+
+-
+
+Total contributions by and distributions
+to equity holders
+
+-
+
+Transfer from life policy holder reserve fund
+
+-
+
+Transfers during the period
+
+-
+
+Interests
+
+-
+
+-
+
+Total comprehensive income for the period
+10,698,314
+
+10,698,314
+
+356,986
+
+(34,115)
+
+(380)
+
+(22,285)
+
+(22,665)
+
+-
+
+10,664,199
+
+10,697,934
+
+334,701
+
+11,032,635
+
+-
+
+-
+
+(8,577,318)
+-
+
+(8,577,318)
+-
+
+(260,332)
+679,712
+
+(8,837,650)
+679,712
+
+-
+
+-
+
+-
+
+(8,577,318)
+
+(8,577,318)
+
+419,380
+
+(8,157,938)
+
+48,756
+
+-
+
+-
+
+-
+
+48,756
+
+-
+
+-
+
+-
+
+(308,469)
+
+-
+
+250,305
+
+381,156
+
+301,767
+
+93,163,321
+
+263,530,277
+
+Transactions with equity holders, recognised directly in equity
+Contributions by and distributions to equity holders
+Dividends to equity holders
+
+Balance as at 31st March 2025
+
+35,072,240
+
+7,785,986
+
+12,610,000
+
+32,353,035
+
+60,100,000
+
+11,655,434
+
+48,756
+12,272,968
+
+275,803,245
+
+STATEMENT OF CHANGES IN EQUITY - GROUP
+Stated Capital
+
+For the 3 months ended 31st March 2024
+
+Balance as at 1st January 2024
+
+Other Reserves
+
+Voting
+
+Non-Voting
+
+Statutory
+
+Capital
+
+General
+
+Fair value
+
+Special
+
+Life Policy
+
+Restricted
+
+Exchange
+
+Retained
+
+Shareholders'
+
+Shares
+
+Shares
+
+Reserve
+
+Reserve
+
+Reserve
+
+Reserve
+
+Reserve
+
+Holder
+
+Regulatory
+
+Equalization
+
+Earnings
+
+Funds
+
+Non
+
+Total
+
+Controlling
+
+Equity
+
+Reserve Fund
+
+Reserve
+
+Reserve
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+33,553,624
+
+7,401,492
+
+10,410,000
+
+28,493,417
+
+59,100,000
+
+4,069,473
+
+-
+
+10,983
+
+381,156
+
+568,207
+
+68,251,694
+
+212,240,046
+
+7,316,735
+
+219,556,781
+
+7,208,538
+
+7,208,538
+
+211,835
+
+7,420,373
+
+1,537,155
+
+(219,313)
+
+1,317,842
+
+Interests
+
+Total comprehensive income for the period
+Net profit for the period
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Other comprehensive income for the period, net of tax
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,537,155
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total comprehensive income for the period
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,537,155
+
+-
+
+-
+
+-
+
+-
+
+7,208,538
+
+8,745,693
+
+(7,478)
+
+8,738,215
+
+(2,238,954)
+
+-
+
+Transactions with equity holders, recognised directly in equity
+Contributions by and distributions to equity holders
+Dividends to equity holders
+Final dividend 2023 - Cash
+Final dividend 2023 - Scrip
+Total contributions by and distributions to equity holders
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2,238,954)
+
+(2,238,954)
+
+-
+
+1,518,616
+
+-
+
+384,495
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2,238,954)
+
+(335,843)
+
+-
+
+(335,843)
+
+1,518,616
+
+384,495
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(4,477,908)
+
+(2,574,797)
+
+-
+
+(2,574,797)
+229,932
+
+Transfer to life policy holder reserve fund
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+229,932
+
+-
+
+-
+
+-
+
+229,932
+
+-
+
+Transfers during the period
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+240,915
+
+381,156
+
+568,207
+
+Balance as at 31st March 2024
+
+35,072,240
+
+7,785,987
+
+10,410,000
+
+28,493,417
+
+59,100,000
+
+8
+
+5,606,628
+
+70,982,324
+
+218,640,874
+
+7,309,257
+
+225,950,131
+
+STATEMENT OF CASH FLOWS
+Bank
+For the 3 months ended 31st March
+
+Group
+
+2025
+
+2024
+
+2025
+
+2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Cash flows from operating activities
+Interest receipts
+
+50,050,299
+
+59,781,604
+
+55,780,811
+
+63,840,993
+
+Interest payments
+
+(27,361,733)
+
+(60,837,550)
+
+(29,216,770)
+
+(61,667,810)
+
+Net commission receipts
+
+4,823,022
+
+4,055,705
+
+5,370,667
+
+4,293,377
+
+Payments to employees
+
+(6,700,800)
+
+(5,595,091)
+
+(8,250,186)
+
+(6,731,579)
+
+Taxes on financial services
+
+(8,729,965)
+
+(2,258,783)
+
+(9,304,387)
+
+(2,462,600)
+
+Receipts / (loss) from other operating activities
+
+3,722,300
+
+(7,047,330)
+
+9,603,711
+
+(2,120,157)
+
+Payments for other operating activities
+
+(5,723,482)
+
+(4,504,678)
+
+(9,284,572)
+
+(8,051,705)
+
+Operating profit before changes in operating assets and liabilities
+
+10,079,641
+
+(16,406,123)
+
+14,699,274
+
+(12,899,481)
+
+Balances with Central Bank of Sri Lanka
+
+(9,855,971)
+
+983,468
+
+(9,938,102)
+
+983,468
+
+Financial assets measured at amortised cost - loans and advances to customers
+
+(13,766,263)
+
+13,910,670
+
+(Increase)/decrease in operating assets
+(19,818,158)
+
+13,478,058
+
+-
+
+(5,858,066)
+
+(2,782,781)
+
+(1,189,052)
+
+(304,210)
+
+(3,178,205)
+
+(2,177,074)
+
+(24,811,286)
+
+14,589,928
+
+(38,792,531)
+
+9,501,671
+
+Financial liabilities measured at amortised cost - due to depositors
+
+4,720,987
+
+20,213,530
+
+6,824,084
+
+25,469,233
+
+Financial liabilities measured at amortised cost - other borrowings
+
+4,481,351
+
+1,315,887
+
+4,603,174
+
+1,514,775
+
+Securities sold under repurchase agreements
+
+45,278,354
+
+17,394,605
+
+50,089,093
+
+17,394,605
+
+Reverse repurchase agreements
+
+-
+
+Other assets
+Increase/(decrease) in operating liabilities
+
+Other liabilities
+
+Net cash generated from operating activities before income tax
+
+6,463,805
+
+1,080,946
+
+10,791,556
+
+2,117,101
+
+60,944,497
+
+40,004,968
+
+72,307,907
+
+46,495,714
+
+46,212,852
+
+38,188,773
+
+48,214,650
+
+43,097,904
+
+Income tax paid
+
+(2,041,926)
+
+(687,171)
+
+(2,683,401)
+
+(861,459)
+
+Net cash generated from operating activities
+
+44,170,926
+
+37,501,602
+
+45,531,249
+
+42,236,445
+
+(380,913)
+
+(526,307)
+
+(388,996)
+
+(531,691)
+
+3
+
+435
+
+3
+
+1,310
+
+(16,404,384)
+
+(56,612,362)
+
+(20,250,177)
+
+(60,480,554)
+
+Cash flows from investing activities
+Purchase of property, plant and equipment
+Proceeds from the sale of property, plant and equipment
+Net proceeds from sale, maturity and purchase of financial investments
+Net purchase of intangible assets
+
+(146,448)
+
+(59,580)
+
+(295,258)
+
+(82,595)
+
+(6,500,000)
+
+-
+
+(3,923,372)
+
+-
+
+Investment in Rights Issue of subsidiary
+
+(513,474)
+
+-
+
+-
+
+-
+
+Dividends received from other investments
+
+268,837
+
+-
+
+319,436
+
+-
+
+Net cash effect on acquisition of subsidiary
+
+Net cash used in investing activities
+
+(23,676,379)
+
+(57,197,814)
+
+(24,538,364)
+
+(61,093,530)
+
+Cash flows from financing activities
+Proceeds from the right issue from non-controlling interest
+
+-
+
+-
+
+679,712
+
+-
+
+Debt securities issued
+
+-
+
+-
+
+2,000,000
+
+-
+
+Dividend paid to shareholders of the parent company
+
+(1,207)
+
+-
+
+(1,207)
+
+-
+
+Net cash generated from / (used in) financing activities
+
+(1,207)
+
+-
+
+2,678,505
+
+-
+
+Net increase / (decrease) in cash and cash equivalents
+
+20,493,340
+
+(19,696,212)
+
+23,671,390
+
+(18,857,085)
+
+Cash and cash equivalents at the beginning of the period
+
+105,261,283
+
+129,139,730
+
+112,769,278
+
+135,595,289
+
+Cash and cash equivalents at the end of the period
+
+125,754,623
+
+109,443,518
+
+136,440,668
+
+116,738,204
+
+52,215,250
+
+74,950,234
+
+52,983,590
+
+76,057,954
+
+Cash and cash equivalents at the end of the period
+Cash and cash equivalents
+Placements with banks
+
+9
+
+73,539,373
+
+34,493,284
+
+83,457,078
+
+40,680,250
+
+125,754,623
+
+109,443,518
+
+136,440,668
+
+116,738,204
+
+ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS - BANK
+As at 31st March 2025
+
+Assets
+Cash and cash equivalents
+Placements with banks
+Balances with Central Bank of Sri Lanka
+Reverse repurchase agreements
+Derivative financial instruments
+Financial assets measured at fair value through profit or loss
+Financial assets measured at amortised cost - loans and advances to customers
+Financial assets measured at amortised cost - debt and other financial
+instruments
+Financial assets measured at fair value through other comprehensive income
+Other financial assets
+Total financial assets
+Liabilities
+Due to banks
+Derivative financial instruments
+Securities sold under repurchase agreements
+Financial liabilities measured at amortised cost - due to depositors
+Financial liabilities measured at amortised cost - other borrowings
+Debt securities issued
+Other financial liabilities
+Subordinated term debts
+Total financial liabilities
+
+Fair Value
+through
+Profit or Loss
+
+Amortised
+Cost
+
+Rs 000
+
+Rs 000
+
+425,489
+3,631,330
+
+52,113,869
+73,491,497
+16,772,672
+1,078,106,343
+
+4,056,819
+
+755,847,992
+5,046,907
+1,981,379,280
+
+453,603
+453,603
+
+11,982,724
+71,710,711
+1,723,271,845
+19,190,121
+11,190
+28,841,157
+1,855,007,748
+
+Fair Value
+through Other
+Comprehensive
+Income
+Rs 000
+
+-
+
+98,531,667
+98,531,667
+
+-
+
+Total
+Carrying
+Amount
+Rs 000
+
+52,113,869
+73,491,497
+16,772,672
+425,489
+3,631,330
+1,078,106,343
+755,847,992
+98,531,667
+5,046,907
+2,083,967,766
+
+11,982,724
+453,603
+71,710,711
+1,723,271,845
+19,190,121
+11,190
+28,841,157
+1,855,461,351
+
+ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS - BANK
+As at 31st December 2024 (Audited)
+
+Fair Value
+through
+Profit or Loss
+
+Amortised
+Cost
+
+Rs 000
+
+Rs 000
+
+375,060
+1,835,469
+-
+
+63,356,259
+41,858,517
+6,913,009
+1,063,675,345
+
+Other financial assets
+Total financial assets
+
+2,210,529
+
+741,761,201
+4,746,539
+1,922,310,870
+
+Liabilities
+Due to banks
+Derivative financial instruments
+Securities sold under repurchase agreements
+Financial liabilities measured at amortised cost - due to depositors
+Financial liabilities measured at amortised cost - other borrowings
+Debt securities issued
+Other financial liabilities
+Subordinated term debts
+Total financial liabilities
+
+1,573,417
+1,573,417
+
+6,595,571
+26,486,104
+1,715,484,127
+19,740,135
+10,466
+28,174,227
+1,796,490,630
+
+Assets
+Cash and cash equivalents
+Placements with banks
+Balances with Central Bank of Sri Lanka
+Derivative financial instruments
+Financial assets measured at fair value through profit or loss
+Financial assets measured at amortised cost - loans and advances to customers
+Financial assets measured at amortised cost - debt and other financial
+instruments
+Financial assets measured at fair value through other comprehensive income
+
+10
+
+Fair Value
+through Other
+Comprehensive
+Income
+Rs 000
+
+96,309,470
+96,309,470
+
+-
+
+Total
+Carrying
+Amount
+Rs 000
+
+63,356,259
+41,858,517
+6,913,009
+375,060
+1,835,469
+1,063,675,345
+741,761,201
+96,309,470
+4,746,539
+2,020,830,869
+
+6,595,571
+1,573,417
+26,486,104
+1,715,484,127
+19,740,135
+10,466
+28,174,227
+1,798,064,047
+
+ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS - GROUP
+As at 31st March 2025
+
+Fair Value
+through
+Profit or Loss
+Rs 000
+
+Amortised
+Cost
+
+Fair Value
+through Other
+Comprehensive
+Income
+Rs 000
+Rs 000
+
+Total
+Carrying
+Amount
+Rs 000
+
+Assets
+Cash and cash equivalents
+
+-
+
+52,882,209
+
+-
+
+52,882,209
+
+Placements with banks
+
+-
+
+83,409,202
+
+-
+
+83,409,202
+
+Balances with Central Bank of Sri Lanka
+
+-
+
+16,854,803
+
+-
+
+16,854,803
+
+Reverse repurchase agreements
+
+-
+
+11,138,759
+
+-
+
+11,138,759
+
+Derivative financial instruments
+
+425,489
+
+-
+
+-
+
+425,489
+
+58,424,609
+
+-
+
+-
+
+58,424,609
+
+Financial assets measured at fair value through profit or loss
+Financial assets measured at amortised cost - loans and advances to customers
+
+-
+
+1,124,653,036
+
+-
+
+1,124,653,036
+
+Financial assets measured at amortised cost - debt and other financial instruments
+Financial assets measured at fair value through other comprehensive income
+
+-
+
+791,229,744
+
+-
+
+791,229,744
+
+-
+
+-
+
+Other financial assets
+
+-
+
+707,139
+
+Total financial assets
+
+58,850,098
+
+2,080,874,892
+
+114,665,372
+114,665,372
+
+114,665,372
+707,139
+2,254,390,362
+
+Liabilities
+Due to banks
+
+-
+
+Derivative financial instruments
+
+453,603
+
+12,829,538
+
+-
+
+-
+
+12,829,538
+
+-
+
+453,603
+
+Securities sold under repurchase agreements
+
+-
+
+124,623,420
+
+-
+
+124,623,420
+
+Financial liabilities measured at amortised cost - due to depositors
+
+-
+
+1,760,150,046
+
+-
+
+1,760,150,046
+
+Financial liabilities measured at amortised cost - other borrowings
+
+-
+
+21,975,448
+
+-
+
+21,975,448
+
+Debt securities issued
+
+-
+
+447,543
+
+-
+
+447,543
+
+Other financial liabilities
+
+-
+
+6,769,349
+
+-
+
+6,769,349
+
+Subordinated term debts
+
+-
+
+32,709,188
+
+-
+
+32,709,188
+
+Total financial liabilities
+
+453,603
+
+1,959,504,532
+
+-
+
+1,959,958,135
+
+ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS - GROUP
+As at 31st December 2024 (Audited)
+
+Fair Value
+through
+Profit or Loss
+Rs 000
+
+Amortised
+Cost
+
+Fair Value
+through Other
+Comprehensive
+Income
+Rs 000
+Rs 000
+
+Total
+Carrying
+Amount
+Rs 000
+
+Assets
+Cash and cash equivalents
+
+-
+
+64,065,041
+
+-
+
+64,065,041
+
+Placements with banks
+
+-
+
+48,656,010
+
+-
+
+48,656,010
+
+Balances with Central Bank of Sri Lanka
+
+-
+
+6,913,009
+
+-
+
+6,913,009
+
+Reverse repurchase agreements
+
+-
+
+5,280,692
+
+-
+
+5,280,692
+
+Derivative financial instruments
+
+375,060
+
+-
+
+-
+
+375,060
+
+2,962,612
+
+-
+
+-
+
+2,962,612
+
+Financial assets measured at fair value through profit or loss
+Financial assets measured at amortised cost - loans and advances to customers
+
+-
+
+1,104,013,319
+
+-
+
+1,104,013,319
+
+Financial assets measured at amortised cost - debt and other financial instruments
+
+-
+
+770,020,546
+
+-
+
+770,020,546
+
+Financial assets measured at fair value through other comprehensive income
+
+-
+
+Other financial assets
+
+-
+
+Total financial assets
+
+3,337,672
+
+8,414,670
+2,007,363,287
+
+112,407,299
+112,407,299
+
+112,407,299
+8,414,670
+2,123,108,258
+
+Liabilities
+Due to banks
+
+-
+
+Derivative financial instruments
+
+1,573,417
+
+6,595,571
+-
+
+-
+
+6,595,571
+
+-
+
+1,573,417
+
+Securities sold under repurchase agreements
+
+-
+
+26,486,104
+
+-
+
+26,486,104
+
+Financial liabilities measured at amortised cost - due to depositors
+
+-
+
+1,750,259,233
+
+-
+
+1,750,259,233
+
+Financial liabilities measured at amortised cost - other borrowings
+
+-
+
+19,742,152
+
+-
+
+19,742,152
+
+Debt securities issued
+
+-
+
+448,108
+
+-
+
+448,108
+
+Other financial liabilities
+
+-
+
+4,190,120
+
+-
+
+4,190,120
+
+Subordinated term debts
+
+-
+
+Total financial liabilities
+
+1,573,417
+
+11
+
+29,967,185
+
+-
+
+29,967,185
+
+1,837,688,473
+
+-
+
+1,839,261,890
+
+EXPLANATORY NOTES
+
+1. There are no changes in accounting policies and methods of computation since the publication
+of annual accounts for the year 2024.
+2. There are no material changes during the period in the composition of assets, liabilities and
+contingent liabilities and use of funds raised through debentures. All known expenditure items
+have been provided for.
+3. These interim financial statements are presented in accordance with Sri Lanka Accounting
+Standard (LKAS 34) “Interim Financial Reporting” and provide the information as required in
+terms of Rule 7.4 of the Colombo Stock Exchange.
+4. ECL Assessment and computation
+The Bank reassessed the Probabilities of Default (PD) used in collective impairment assessment
+during the quarter ended 31st March 2025. Management overlays have been recognised in
+respect of exposures to specific industries where an elevated level of risk have been identified.
+The Bank has made adequate provisions for expected credit losses in the financial statements as
+at 31st March 2025 to ensure that the potential impact to its loan portfolio is adequately
+covered. The Board will continue to monitor the implications and make adjustments, if required.
+5. Bank re-classified its debt securities portfolio measured at Fair Value Through Other
+Comprehensive Income category to Amortised Cost category with effect from 1st April 2022 in
+accordance with “Statement of Alternative Treatment (SoAT) on Reclassification of Debt
+Portfolio” issued by CA Sri Lanka. Accordingly, Treasury Bills and Treasury Bonds investments
+which were previously classified as financial assets measured at Fair Value Through Other
+Comprehensive Income (FVOCI) were re-classified as financial assets measured at amortised
+cost. There was no change to the effective interest rate used and interest revenue recognised in
+respect of the reclassified assets.
+Had these investments continued to be carried at fair value though other comprehensive
+income, the fair value of the remaining portfolio as at 31st March 2025 would have amounted to
+Rs 5.5 Bn and would have resulted in the recognition of a fair value loss of Rs 315 Mn (net of tax)
+in other comprehensive income during the period.
+6. Where required, figures on the audited annual financial statements have been reclassified to
+conform to Central Bank of Sri Lanka publication requirements.
+7. Reporting entity
+The Bank does not have an identifiable parent of its own. Hatton National Bank PLC is the
+ultimate parent of the Group. The consolidated financial statements of the Bank cover the Bank
+and its subsidiaries, HNB Assurance PLC, Sithma Development (Pvt) Ltd, HNB Finance PLC & HNB
+Investment Bank (Pvt) Ltd.
+On January 21, 2025, HNB PLC acquired 75,500,001 ordinary voting shares, representing a 50%
+stake held by DFCC Bank PLC in Acuity Partners (Pvt) Ltd, for a consideration of Rs 6.5 Bn. This
+
+12
+
+Objective
+Number
+
+1
+
+2
+
+transaction was completed after obtaining approvals from the Central Bank of Sri Lanka and the
+Securities and Exchange Commission of Sri Lanka. Following this acquisition, Acuity Partners
+(Pvt) Ltd has become a wholly-owned subsidiary of HNB PLC and was subsequently rebranded as
+HNB Investment Bank (Pvt) Ltd.
+8. Utilization of funds raised via capital markets
+8.1 Utilization of funds raised from debenture issue 2024
+Objective
+Amount
+Proposed
+Amount % of
+Amount
+% of
+Clarification if not fully
+as per
+allocated
+date of
+allocated total
+utilized
+utilisation utilized including
+Prospectus as per
+utilization as from
+proceeds
+against
+where the funds are
+Prospectus per
+proceeds
+allocation invested
+Prospectus
+(B/A)
+To
+Rs 12 Bn
+27. 08. 2024 Rs 12 Bn 100%
+Rs 12 Bn 100%
+Fully utilised
+strengthen
+the Tier 2
+capital
+base of the
+Bank in line
+with the
+BASEL III
+accord
+To
+Rs 12 Bn
+27. 08. 2025 Rs 12 Bn 100%
+Rs 12 Bn 100%
+Fully utilised
+facilitate
+future
+expansion
+of business
+activities of
+the Bank
+8.2 The funds raised through debentures previously issued were fully utilized for the objectives
+mentioned in the respective prospectuses.
+9. Dividend
+The Shareholders of the Bank at the Annual General Meeting held on 27th March 2025
+approved a final cash Dividend of Rs 15/- per share on both voting and non-voting shares of the
+Bank, for the financial year 2024. The Bank has recognized the dividend payable amounting to
+Rs 8,577 Mn for the approved final dividend in its Financial Statements as at 31st March 2025.
+The dividend distribution took place in April 2025.
+10. There are no material events that took place after the balance sheet date which require
+adjustment or disclosure in the financial statements other than item disclosed 11 below.
+11. Resignation of Director
+Mr. Wanniarachchi Mudiyanselage Madura Duminda Rathnayake, has tendered his letter of
+resignation from the office of the Director of Hatton National Bank PLC w.e.f 30th May 2025 due
+to personal reasons. The Board of Directors at its meeting held on 30th April 2025 has accepted
+the resignation with effect from 30th May 2025.
+
+13
+
+SEGMENT REPORTING
+Corporate
+For the 3 months ended 31st March
+
+Net interest income
+Foreign exchange income
+Net fee and commission income
+Other operating income / (loss)
+Total operating income / (loss)
+
+Retail
+
+SME
+
+Micro
+
+Treasury
+
+Real Estate
+
+Insurance
+
+Investment Banking
+
+NBFI*
+
+Eliminations / Unallocated
+
+Consolidated
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+3,734,680
+
+4,541,460
+
+7,348,429
+
+9,762,453
+
+3,399,400
+
+3,745,298
+
+590,884
+
+451,274
+
+9,416,162
+
+5,572,281
+
+29,873
+
+77,815
+
+1,925,832
+
+1,861,366
+
+653,426
+
+-
+
+1,472,208
+
+1,255,411
+
+(659,892)
+
+(1,933,061)
+
+27,911,002
+
+25,334,297
+
+125,962
+
+1,483,116
+
+319,440
+
+374,932
+
+183,912
+
+178,180
+
+10,532
+
+2,082
+
+153,465
+
+(1,911,084)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+683,231
+
+(2,812,329)
+
+1,476,542
+
+(2,685,103)
+
+1,356,146
+
+1,109,946
+
+2,270,317
+
+2,066,953
+
+1,183,353
+
+869,694
+
+162,395
+
+66,678
+
+1,645
+
+2,977
+
+-
+
+-
+
+169,894
+
+132,875
+
+104,376
+
+-
+
+282,338
+
+112,488
+
+(182,149)
+
+(19,909)
+
+5,348,315
+
+4,341,702
+
+-
+
+-
+
+-
+
+39,346
+
+178,022
+
+266,323
+
+266,497
+
+5,753,306
+
+4,599,889
+
+244,116
+
+-
+
+597,857
+
+563,574
+
+(184,911)
+
+6,520
+
+6,716,037
+
+5,614,502
+
+520,034
+
+9,610,618
+
+3,842,196
+
+296,196
+
+344,312
+
+7,849,032
+
+6,594,130
+
+1,001,918
+
+-
+
+2,352,403
+
+1,931,473
+
+(343,721)
+
+(4,758,779)
+
+41,451,896
+
+32,605,398
+
+-
+
+-
+
+-
+
+5,216,788
+
+7,134,522
+
+9,938,186
+
+loans and other losses
+
+(782,194)
+
+(2,567,796)
+
+164,474
+
+Net operating income / (loss)
+
+5,998,982
+
+9,702,318
+
+9,773,712
+
+12,204,338
+
+4,766,665
+
+4,793,172
+
+763,811
+
+1,144,538
+
+301,527
+
+1,559,126
+
+(222,116)
+
+97,189
+
+179,440
+
+1,138,509
+
+-
+
+-
+
+11,059,800
+
+4,465,138
+
+3,234,046
+
+985,927
+
+422,845
+
+9,431,178
+
+2,703,687
+
+296,196
+
+344,312
+
+Impairment charge / (reversal) for
+(1,771)
+7,850,803
+
+6,594,130
+
+1,001,918
+
+-
+
+187,176
+
+263,222
+
+(20,843)
+
+-
+
+2,165,227
+
+1,668,251
+
+(322,878)
+
+(4,758,779)
+
+(194,307)
+
+1,634,788
+
+41,646,203
+
+30,970,610
+10,608,654
+
+Profit from operations
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+16,868,880
+
+Share of profit of joint venture
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+198,353
+
+633,678
+
+Less: Income tax expenses
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+6,011,933
+
+3,821,959
+
+Less: Non - controlling interests
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+356,986
+
+211,835
+
+10,698,314
+
+7,208,538
+
+Net Profit for the year attributable
+to equity holders of the Bank
+As at 31st March
+
+Segment assets
+Investment in associate / joint venture
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+594,945,741
+
+490,906,032
+
+283,062,243
+
+269,848,577
+
+186,391,018
+
+163,394,757
+
+36,081,947
+
+26,559,293
+
+862,417,160
+
+815,258,297
+
+11,382,907
+
+11,760,849
+
+68,097,556
+
+55,465,254
+
+75,168,976
+
+58,343,029
+
+52,874,568
+
+174,609,036
+
+172,912,083
+
+2,275,330,636
+
+2,058,979,710
+
+5,818,404
+
+5,019,531
+
+5,818,403
+
+5,019,531
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total assets
+
+594,945,741
+
+490,906,032
+
+283,062,243
+
+269,848,577
+
+186,391,018
+
+163,394,757
+
+36,081,947
+
+26,559,293
+
+862,417,160
+
+815,258,297
+
+11,382,907
+
+11,760,849
+
+68,097,556
+
+55,465,254
+
+75,168,976
+
+-
+
+58,343,029
+
+52,874,568
+
+180,427,440
+
+177,931,614
+
+2,356,318,016
+
+2,063,999,241
+
+Segment liabilities
+
+293,950,201
+
+253,031,831
+
+1,063,796,427
+
+952,177,561
+
+296,163,590
+
+275,594,215
+
+33,787,452
+
+28,510,443
+
+81,060,079
+
+104,161,183
+
+11,382,907
+
+11,760,849
+
+68,097,556
+
+55,465,254
+
+75,168,976
+
+-
+
+58,343,028
+
+52,874,568
+
+374,567,801
+
+330,423,336
+
+2,356,318,016
+
+2,063,999,241
+
+Total liabilities
+
+293,950,201
+
+253,031,831
+
+1,063,796,427
+
+952,177,561
+
+296,163,590
+
+275,594,215
+
+33,787,452
+
+28,510,443
+
+81,060,079
+
+104,161,183
+
+11,382,907
+
+11,760,849
+
+68,097,556
+
+55,465,254
+
+75,168,976
+
+-
+
+58,343,028
+
+52,874,568
+
+374,567,801
+
+330,423,336
+
+2,356,318,016
+
+2,063,999,241
+
+For the 3 months ended 31st March
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+2025
+
+2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+(131,675,557)
+
+15,392,428
+
+47,991,069
+
+15,789,919
+
+(1,164,633)
+
+760,971
+
+3,313,059
+
+1,721,579
+
+61,864,233
+
+15,582,637
+
+110,910
+
+134,900
+
+1,670,946
+
+675,860
+
+-
+
+-
+
+(800,170)
+
+(6,988,275)
+
+64,221,391
+
+(833,574)
+
+45,531,249
+
+42,236,445
+
+(16,404,384)
+
+(56,612,362)
+
+70,461
+
+35,156
+
+(1,221,126)
+
+(291,255)
+
+-
+
+-
+
+876,110
+
+(3,476,255)
+
+(7,859,425)
+
+(748,814)
+
+(24,538,364)
+
+(61,093,530)
+
+Information on cash flows
+Cash flows from operating activities
+Cash flows from investing activities
+Cash flows from financing activities
+Net cash flow generated /(used in)
+during the year
+
+-
+
+-
+
+(41,698)
+
+(60,545)
+
+-
+
+-
+
+(44,865)
+
+(1,795,825)
+
+2,946,774
+
+1,863,064
+
+2,678,505
+
+324,060
+
+-
+
+-
+
+31,076
+
+(12,260,355)
+
+59,308,740
+
+280,676
+
+23,671,390
+
+(18,857,085)
+
+– Property, plant and equipment
+
+388,996
+
+531,691
+
+– Intangible assets
+
+295,258
+
+82,595
+
+Total Capital Expenditure
+
+684,254
+
+614,286
+
+760,971
+
+-
+
+-
+
+408,122
+
+(1,164,633)
+
+-
+
+-
+
+(6,694)
+
+15,789,919
+
+-
+
+-
+
+163,362
+
+47,991,069
+
+-
+
+-
+
+(335)
+
+15,392,428
+
+-
+
+-
+
+(181,706)
+
+(131,675,557)
+
+-
+
+-
+
+3,313,059
+
+1,721,579
+
+45,459,849
+
+(41,029,725)
+
+-
+
+Capital expenditure
+
+* Business of HNB Finance PLC.
+
+14
+
+SELECTED PERFORMANCE INDICATORS (AS PER REGULATORY REPORTING)
+As at
+
+As at
+
+As at
+
+As at
+
+31.03.2025
+
+31.12.2024
+
+31.03.2025
+
+31.12.2024
+
+Bank
+
+Group
+
+BASEL III
+Regulatory Capital Adequacy
+Common Equity Tier 1. Rs. Mn
+
+175,591
+
+190,812
+
+219,534
+
+219,579
+
+Tier 1 Capital. Rs. Mn
+
+175,591
+
+190,812
+
+219,534
+
+219,579
+
+Total Capital. Rs. Mn
+
+218,359
+
+233,314
+
+263,496
+
+262,769
+
+Common Equity Tier 1 Capital Ratio (Minimum Requirement - 2025 - 8.00%: 2024 - 8.00%)
+
+17.60%
+
+19.59%
+
+20.02%
+
+20.64%
+
+Tier 1 Capital Ratio (Minimum Requirement - 2025 - 9.50%: 2024 - 9.50%)
+
+17.60%
+
+19.59%
+
+20.02%
+
+20.64%
+
+Total Capital Ratio (Minimum Requirement 2025 - 13.50%: 2024 - 13.50%)
+
+21.89%
+
+23.96%
+
+24.02%
+
+24.70%
+
+Leverage Ratio (Minimum Requirement- 3.00%)
+
+6.94%
+
+7.93%
+
+7.85%
+
+8.64%
+
+Regulatory Capital Ratios
+
+Assets Quality (Quality of Loan Portfolio)
+Impaired Loans (Stage 3) Ratio, %*
+
+1.82%
+
+1.88%
+
+Impairment (Stage 3) to Stage 3 loans Ratio, %*
+
+75.12%
+
+74.42%
+
+Interest Margin, %
+
+4.48%
+
+4.86%
+
+Return on Assets (before Tax), %
+
+2.96%
+
+4.03%
+
+Return on Equity, %
+
+17.61%
+
+20.40%
+
+Cost to Income, %
+
+36.41%
+
+66.04%
+
+Regulatory Liquidity
+Liquidity Coverage Ratio (%) - Rupee
+
+297.51%
+
+292.61%
+
+364.49%
+
+331.49%
+
+Net Stable Funding Ratio(Minimum Requirement - 2025 - 100%, 2024 - 100%)
+
+160.49%
+
+161.18%
+
+Credit Rating
+
+AA-(lka)
+
+A(lka)
+
+Income and Profitability
+
+(Minimum Requirement - 2025 - 100%, 2024 - 100%)
+Liquidity Coverage Ratio (%) - All Currency
+(Minimum Requirement - 2025 - 100%, 2024 - 100%)
+
+*Including Undrawn Portion of Credit
+
+15
+
+LISTED DEBENTURE INFORMATION
+Market Value
+Quarter ended 31st March
+
+Last traded price
+
+2025
+
+2024
+
+2025
+
+2024
+
+Highest
+
+Lowest
+
+Highest
+
+Lowest
+
+Rs.
+
+Rs.
+
+Rs.
+
+Rs.
+
+Rs.
+
+Rs.
+
+N/A
+
+N/A
+
+N/T
+
+N/T
+
+N/A
+
+N/T
+
+N/A
+
+N/A
+
+N/T
+
+N/T
+
+N/A
+
+N/T
+
+5 year Fixed Rate (12.30% p.a.)
+
+N/A
+
+N/A
+
+N/T
+
+N/T
+
+N/A
+
+N/T
+
+7 year Fixed Rate (12.80% p.a.)
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+10 year Fixed Rate (9.50% p.a.)
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+N/T
+
+HNB DEBENTURES 2024
+5 year Fixed Rate (13.00% p.a.)
+5 year Fixed Rate (12.60% p.a.)
+7 year Fixed Rate (13.25% p.a.)
+10 year Fixed Rate (13.50% p.a.)
+
+N/T
+N/T
+N/T
+N/T
+
+N/T
+N/T
+N/T
+N/T
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/T
+N/T
+N/T
+N/T
+
+N/A
+N/A
+N/A
+N/A
+
+HNB DEBENTURES 2006
+
+Interest Yield as at Last Trade Done
+Quarter ended 31st March
+
+2025
+
+2024
+
+%
+
+%
+
+N/A
+
+N/T
+
+N/A
+
+N/T
+
+5 year Fixed Rate (12.30% p.a.)
+
+N/A
+
+N/T
+
+7 year Fixed Rate (12.80% p.a.)
+
+N/T
+
+N/T
+
+10 year Fixed Rate (9.50% p.a.)
+
+N/T
+
+N/T
+
+HNB DEBENTURES 2024
+5 year Fixed Rate (13.00% p.a.)
+5 year Fixed Rate (12.60% p.a.)
+7 year Fixed Rate (13.25% p.a.)
+10 year Fixed Rate (13.50% p.a.)
+
+N/T
+N/T
+N/T
+N/T
+
+N/A
+N/A
+N/A
+N/A
+
+HNB DEBENTURES 2006
+
+18 year Fixed Rate (11.25% p.a.)
+HNB DEBENTURES 2014
+
+18 year Fixed Rate (11.25% p.a.)
+HNB DEBENTURES 2014
+
+10 year Fixed Rate (8.33% p.a.)
+HNB DEBENTURES 2019
+
+10 year Fixed Rate (8.33% p.a.)
+HNB DEBENTURES 2019
+
+HNB DEBENTURES 2021
+
+HNB DEBENTURES 2021
+
+N/T – Not Traded as at 31st March, N/A – Not Applicable as at 31st March
+
+N/T – Not Traded as at 31st March, N/A – Not Applicable as at
+31st March
+Yield to Maturity of Last Trade Done (% p.a)
+
+RATIOS OF DEBT
+
+Quarter ended 31st March
+31.03.2025
+
+31.12.2024
+
+Debt Equity Ratio (%)
+
+16.62
+31.03.2025
+
+16.85
+31.03.2024
+
+Interest Cover (Times)
+
+15.01
+31.03.2025
+
+12.16
+31.03.2024
+
+2025
+
+2024
+
+%
+
+%
+
+N/A
+
+N/T
+
+N/A
+
+N/T
+
+HNB DEBENTURES 2006
+18 year Fixed Rate (11.25% p.a.)
+HNB DEBENTURES 2014
+
+Yield of Comparable Govt. Securities for the
+
+10 year Fixed Rate (8.33% p.a.)
+
+following HNB Debentures (% p.a.)
+HNB DEBENTURES 2019
+2006 series 18 year maturity
+
+N/A
+
+N/A
+
+5 year Fixed Rate (12.30% p.a.)
+
+N/A
+
+N/T
+
+2014 series 10 year maturity
+
+N/A
+
+N/A
+
+7 year Fixed Rate (12.80% p.a.)
+
+N/T
+
+N/T
+
+2019 series 5 year maturity
+
+N/A
+
+10.13
+
+2019 series 7 year maturity
+
+8.52
+
+11.02
+
+HNB DEBENTURES 2021
+
+2021 series 10 year maturity
+
+10.56
+
+12.52
+
+10 year Fixed Rate (9.50% p.a.)
+
+N/T
+
+N/T
+
+2024 series 5 year maturity
+
+10.21
+
+N/A
+
+2024 series 5 year maturity
+
+10.21
+
+N/A
+
+HNB DEBENTURES 2024
+
+2024 series 7 year maturity
+
+10.56
+
+N/A
+
+5 year Fixed Rate (13.00% p.a.)
+
+N/T
+
+N/A
+
+2024 series 10 year maturity
+
+11.34
+
+N/A
+
+5 year Fixed Rate (12.60% p.a.)
+
+N/T
+
+N/A
+
+7 year Fixed Rate (13.25% p.a.)
+
+N/T
+
+N/A
+
+10 year Fixed Rate (12.50% p.a.)
+
+N/T
+
+N/A
+
+N/T – Not Traded as at 31st March, N/A – Not Applicable as at
+31st March
+
+16
+
+SHARE INFORMATION
+As at
+
+31-Mar-25
+
+31-Dec-24
+
+Voting
+
+455,968,474
+
+455,968,474
+
+Non-voting
+Last Traded Price per share
+
+115,852,722
+
+115,852,722
+
+Voting
+
+305.00
+
+319.75
+
+Non-voting
+
+255.25
+
+256.75
+
+31-Mar-25
+
+31-Dec-24
+
+Voting
+
+362.00
+
+324.00
+
+Non-voting
+Lowest price per share
+
+305.00
+
+264.50
+
+Voting
+
+299.00
+
+203.00
+
+Non-voting
+
+238.00
+
+165.00
+
+Number of Shares
+
+For the Quarter Ended
+Highest price per share
+
+PUBLIC SHAREHOLDING PERCENTAGE
+31-Mar-25
+Number
+
+%
+
+Number of shareholders representing the public holding (Voting)
+
+10,213
+
+69%
+
+Number of shareholders representing the public holding (Non Voting)
+
+11,654
+
+99%
+
+Compliant under Option 1 - Float Adjusted Market Capitalization
+
+Rs. 95.96 Bn
+
+DIRECTORS' AND CHIEF EXECUTIVE OFFICER'S SHAREHOLDING
+Number of shares
+31-Mar-25
+31-Dec-24
+1. Mr. K. V. N. Jayawardene PC (Chairman)
+
+-
+
+-
+
+2. Mr. P. G. D. B. Pallewatte
+(Managing Director / Chief Executive Officer)
+
+-
+
+-
+
+3. Mr. W.M.M.D. Ratnayake
+
+-
+
+-
+
+4. Mr. M.P.D.Cooray
+
+9,491
+
+9,491
+
+5. Mr. P.R. Saldin
+
+3,505
+
+3,505
+
+6. Mr. K. A. K. P. Gunawardena
+
+-
+
+-
+
+7. Mr. G. B. R. P. Gunawardana
+
+26,261
+
+26,261
+
+8. Dr. T.K.D.A.P Samarasinghe
+
+-
+
+-
+
+9. Mr. M. N. R. Fernando
+
+-
+
+-
+
+10. Mr. S. Renganathan
+
+-
+
+-
+
+11. Mr. S. K. Shah
+12. Ms. Dilani Champika Alagaratnam Goonatilleke
+(Appointed as Director on 31.01.2025)
+
+-
+
+-
+
+-
+
+-
+
+17
+
+Type of
+Directorship
+Non-Independent /
+Non-Executive
+Executive
+Independent /
+Non-Executive
+Independent /
+Non-Executive
+Non-Independent /
+Non-Executive
+Non-Independent /
+Non-Executive
+Independent /
+Non-Executive
+Non-Independent /
+Non-Executive
+Independent /
+Non-Executive
+Independent /
+Non-Executive
+Independent /
+Non-Executive
+Independent /
+Non-Executive
+
+20 MAJOR SHAREHOLDERS (VOTING) OF HNB PLC
+AS AT 31ST MARCH 2025
+No. of Shares
+
+% on voting
+capital
+
+1. BROWNS INVESTMENTS PLC (CONSISTING OF SAMPATH BANK PLC/ BROWNS INVESTMENTS PLC &
+BROWNS INVESTMENTS PLC ACCOUNTS)
+
+45,529,714
+
+9.99
+
+2. EMPLOYEE'S PROVIDENT FUND
+
+44,443,363
+
+9.75
+
+3. SRI LANKA INSURANCE CORPORATION LTD-LIFE FUND
+
+37,696,270
+
+8.27
+
+4. MILFORD EXPORTS (CEYLON) (PVT) LIMITED
+
+36,055,836
+
+** 7.91
+
+5. STASSEN EXPORTS (PVT) LIMITED
+
+31,252,000
+
+** 6.85
+
+6. SONETTO HOLDINGS LIMITED
+
+22,410,383
+
+4.91
+
+7. SRI LANKA INSURANCE CORPORATION LTD-GENERAL FUND
+
+19,366,354
+
+4.25
+
+8. NATIONAL SAVINGS BANK
+
+14,648,066
+
+3.21
+
+9. MR. H.H. ABDULHUSEIN
+
+14,000,000
+
+3.07
+
+10. DISTILLERIES COMPANY OF SRI LANKA PLC
+
+13,982,540
+
+* 3.07
+
+11. CITIBANK NEWYORK S/A NORGES BANK ACCOUNT 2
+
+13,483,788
+
+2.96
+
+12. MR. Y.S.H.I. SILVA
+13. STANDARD CHARTERED BANK SINGAPORE S/A HL BANK SINGAPORE BRANCH
+
+12,433,480
+
+2.73
+
+8,558,121
+
+1.88
+
+14. FIRST CAPITAL HOLDINGS PLC
+
+7,600,000
+
+1.67
+
+15. MR. Y.S.H.R.S. SILVA
+
+5,782,858
+
+1.27
+
+16. SIMONAS TRUST SERVICE PVT LTD
+
+4,640,728
+
+1.02
+
+17. JANASHAKTHI INSURANCE PLC - SHAREHOLDERS
+
+4,220,000
+
+0.93
+
+18. GALLE FACE CAPITAL PARTNERS PLC
+
+3,500,000
+
+0.77
+
+19. STAR PACKAGING (PVT) LTD
+
+2,500,000
+
+0.55
+
+20. DFCC BANK PLC A/C NO.02
+
+2,133,352
+
+0.47
+
+Name
+
+*Pursuant to the provisions of the Banking Act Directions No. 1 of 2007, the total collective voting rights in the Bank, of Milford Exports (Ceylon)
+Limited, Stassen Exports Limited and Distilleries Company of Sri Lanka (who collectively hold 17.83% of the voting shares of the Bank) are limited to 10%
+of the total voting rights of the Bank with effect from 15th March 2012 as the voting rights in excess of such percentage is deemed invalid from that
+date.
+
+20 MAJOR SHAREHOLDERS (NON-VOTING) OF HNB PLC
+AS AT 31ST MARCH 2025
+No. of Shares
+
+% on non
+voting capital
+
+53,140,789
+
+45.87
+
+5,143,513
+
+4.44
+
+5,119,308
+
+4.42
+
+4. SABOOR CHATOOR (PVT) LTD
+
+930,000
+
+0.80
+
+5. PEOPLE'S LEASING & FINANCE PLC/MR. I.D.R. PERERA
+
+862,821
+
+0.74
+
+6. HATTON NATIONAL BANK PLC A/C NO 2 - (EMPLOYEES PROVIDENT FUND)
+
+833,694
+
+0.72
+
+7. MR. E. CHATOOR
+
+800,000
+
+0.69
+
+8. EMPLOYEES TRUST FUND BOARD
+
+778,775
+
+0.67
+
+9. SENKADAGALA FINANCE PLC / E.THAWAGNANASUNDARAM
+
+581,539
+
+0.50
+
+10. MR. Y.H. ABDULHUSSEIN
+
+517,397
+
+0.45
+
+11. MISS R.H. ABDULHUSSEIN
+
+509,800
+
+0.44
+
+12. DFCC BANK PLC A/C 2
+
+469,190
+
+0.43
+
+13. E.W. BALASURIYA & CO. (PVT) LTD ACC NO 01
+
+491,050
+
+0.42
+
+14. MR. S.E. CAPTAIN
+
+487,824
+
+0.42
+
+15. MR. M.J. FERNANDO (DECEASED)
+
+474,289
+
+0.41
+
+16. DR. R.D. BANDARANAIKE / MRS. A.D. BANDARANAIKE (J)
+
+448,373
+
+0.39
+
+17. DFCC BANK PLC A/C 1
+
+435,463
+
+0.38
+
+18. LANKA SYNTHETIC FIBRE CO LTD
+
+422,039
+
+0.36
+
+19. MR. M.V. THEAGARAJAH / MRS. L. THEAGARAJAH
+20. BANK OF CEYLON - NO 2 A/C (BOC PTF)
+
+386,026
+
+0.33
+
+362,641
+
+0.31
+
+Name
+
+1. BROWNS INVESTMENTS PLC (CONSISTING OF SAMPATH BANK PLC/BROWNS INVESTMENTS PLC &
+BROWNS INVESTMENTS PLC ACCOUNTS)
+2. ACUITY PARTNERS (PVT) LIMITED/MR.ELAYATHAMBY THAVAGNANASOORIYAM / MR.ELAYATHAMBY
+THAVAGNANASUNDARAM
+3. AKBAR BROTHERS PVT LTD A/C NO 1
+
+18
+
+ANALYSIS OF LOANS & ADVANCES AND IMPAIRMENT
+As at
+
+1) Gross loans and advances to customers
+Less : Accumulated impairment under stage 1
+Accumulated impairment under stage 2
+Accumulated impairment under stage 3
+Net loans and advances to customers
+Product-wise Gross loans and advances to customers
+By product-Domestic Currency
+Overdrafts
+Bills of exchange
+Commercial papers
+Credit Cards
+Trust receipts
+Packing credit loans
+Staff loans
+Term loans
+Lease rentals receivable
+Housing loans
+Pawning advances
+Sub total
+By product-Foreign Currency
+Overdrafts
+Bills of exchange
+Trust receipts
+Packing credit loans
+Term loans
+Lease rentals receivable
+Housing loans
+Sub total
+Total
+
+Bank
+31.03.2025
+Rs 000
+
+31.12.2024
+Rs 000
+
+Group
+31.03.2025
+Rs 000
+
+31.12.2024
+Rs 000
+
+1,174,147,453
+9,562,729
+8,286,695
+78,191,686
+1,078,106,343
+-
+
+1,159,740,459
+9,924,864
+8,383,867
+77,756,383
+1,063,675,345
+-
+
+1,227,361,770
+8,780,965
+8,586,895
+85,340,874
+1,124,653,036
+-
+
+1,206,782,185
+10,477,990
+8,897,502
+83,393,374
+1,104,013,319
+-
+
+131,315,066
+578,895
+245,970
+20,483,721
+32,964,175
+10,107,649
+21,615,190
+583,416,585
+83,407,010
+58,248,870
+82,801,701
+1,025,184,832
+
+124,849,956
+358,205
+242,634
+20,581,153
+29,276,080
+8,385,343
+20,371,999
+573,456,540
+81,136,319
+55,731,372
+80,249,186
+994,638,787
+
+130,898,910
+578,895
+245,970
+20,483,721
+32,964,175
+10,107,649
+21,970,953
+601,280,040
+109,905,463
+58,248,870
+91,714,503
+1,078,399,149
+
+124,624,950
+358,205
+242,634
+20,581,153
+29,276,080
+8,385,343
+20,757,747
+588,383,078
+104,758,599
+55,731,372
+88,581,352
+1,041,680,513
+
+3,265,377
+1,424,721
+2,446,129
+24,036,857
+116,142,311
+174,905
+1,472,321
+148,962,621
+1,174,147,453
+
+4,560,295
+1,332,285
+3,172,138
+26,935,578
+127,474,279
+184,493
+1,442,604
+165,101,672
+1,159,740,459
+
+3,265,377
+1,424,721
+2,446,129
+24,036,857
+116,142,311
+174,905
+1,472,321
+148,962,621
+1,227,361,770
+
+4,560,295
+1,332,285
+3,172,138
+26,935,578
+127,474,279
+184,493
+1,442,604
+165,101,672
+1,206,782,185
+
+Movements in stage-wise impairment of loans & advances during the period
+
+Opening balance as at 1st January 2024
+Net impairment charge for the period
+Write-offs during the period
+Effect of exchange rate fluctuations
+Closing balance as at 31st March 2024
+
+Stage 1
+Rs 000
+10,653,265
+311,067
+(85,949)
+10,878,383
+
+Bank
+Stage 2
+Rs 000
+10,333,747
+(286,334)
+(186,413)
+9,861,000
+
+Stage 3
+Rs 000
+66,122,875
+(337,636)
+(1,090,451)
+64,694,788
+
+Total
+Rs 000
+87,109,887
+(312,903)
+(1,362,813)
+85,434,171
+
+Opening balance as at 1st January 2025
+Net impairment charge for the period
+Write-offs during the period
+Effect of exchange rate fluctuations
+Closing balance as at 31st March 2025
+
+9,924,864
+(371,059)
+8,924
+9,562,729
+
+8,383,867
+(110,737)
+13,565
+8,286,695
+
+77,756,383
+299,365
+(18,404)
+154,342
+78,191,686
+
+96,065,114
+(182,431)
+(18,404)
+176,831
+96,041,110
+
+Opening balance as at 1st January 2024
+Net impairment charge for the period
+Write-offs during the period
+Effect of exchange rate fluctuations
+Closing balance as at 31st March 2024
+
+Stage 1
+Rs 000
+12,960,050
+24,120
+(85,949)
+12,898,221
+
+Group
+Stage 2
+Rs 000
+10,659,837
+(240,969)
+(186,413)
+10,232,455
+
+Stage 3
+Rs 000
+68,965,082
+167,171
+(1,090,451)
+68,041,802
+
+Total
+Rs 000
+92,584,969
+(49,678)
+(1,362,813)
+91,172,478
+
+Opening balance as at 1st January 2025
+Net impairment charge for the period
+Write-offs during the period
+Effect of exchange rate fluctuations
+Closing balance as at 31st March 2025
+
+10,477,990
+(1,705,949)
+8,924
+8,780,965
+
+8,897,502
+(324,172)
+13,565
+8,586,895
+
+83,393,374
+1,811,562
+(18,404)
+154,342
+85,340,874
+
+102,768,866
+(218,559)
+(18,404)
+176,831
+102,708,734
+
+19
+
+ANALYSIS OF COMMITMENTS, CONTINGENCIES AND IMPAIRMENT
+Bank
+As at
+
+31.03.2025
+
+Group
+31.12.2024
+
+31.03.2025
+
+31.12.2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+848,374,009
+
+867,243,839
+
+848,374,009
+
+867,243,839
+
+Less : Accumulated impairment under stage 1
+
+1,610,324
+
+1,984,084
+
+1,610,324
+
+1,984,084
+
+Accumulated impairment under stage 2
+
+152,414
+
+106,880
+
+152,414
+
+106,880
+
+2) Gross commitments and contingencies
+
+Accumulated impairment under stage 3
+
+1,941,055
+
+1,872,125
+
+1,941,055
+
+1,872,125
+
+844,670,216
+
+863,280,750
+
+844,670,216
+
+863,280,750
+
+Product-wise commitments and contingencies
+By Product - Domestic Currency
+292,002
+
+561,718
+
+292,002
+
+561,718
+
+Guarantees
+
+Documentary credit
+
+55,488,419
+
+61,383,820
+
+55,488,419
+
+61,383,820
+
+Acceptances
+
+242,951
+
+78,060
+
+242,951
+
+78,060
+
+Bills for collection
+
+799,552
+
+367,655
+
+799,552
+
+367,655
+
+-
+
+-
+
+-
+
+-
+
+Forward exchange contracts
+Forward exchange sales
+Forward exchange purchases
+Cheques sent on clearing
+
+-
+
+-
+
+-
+
+-
+
+6,381,179
+
+5,987,687
+
+6,381,179
+
+5,987,687
+
+Undrawn credit lines
+
+386,146,839
+
+417,808,730
+
+386,146,839
+
+417,808,730
+
+Sub total
+
+449,350,942
+
+486,187,670
+
+449,350,942
+
+486,187,670
+
+Documentary credit
+
+39,060,886
+
+26,770,025
+
+39,060,886
+
+26,770,025
+
+Guarantees
+
+17,447,293
+
+17,162,303
+
+17,447,293
+
+17,162,303
+
+Acceptances
+
+11,552,909
+
+14,639,979
+
+11,552,909
+
+14,639,979
+
+Bills for collection
+
+34,436,612
+
+33,206,021
+
+34,436,612
+
+33,206,021
+
+Forward exchange sales
+
+50,486,793
+
+52,460,878
+
+50,486,793
+
+52,460,878
+
+Forward exchange purchases
+
+137,380,376
+
+140,389,106
+
+137,380,376
+
+140,389,106
+
+36,016
+
+16,029
+
+36,016
+
+16,029
+
+By Product - Foreign Currency
+
+Forward exchange contracts
+
+Cheques sent on clearing
+Undrawn credit lines
+
+108,622,182
+
+96,411,828
+
+108,622,182
+
+96,411,828
+
+Sub total
+
+399,023,067
+
+381,056,169
+
+399,023,067
+
+381,056,169
+
+Total
+
+848,374,009
+
+867,243,839
+
+848,374,009
+
+867,243,839
+
+Movements in stage-wise impairment of commitments and contingencies during the period
+Bank / Group
+
+Opening balance as at 1st January 2024
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Total
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+3,026,254
+
+347,953
+
+1,265,662
+
+4,639,869
+
+Net impairment charge for the period
+
+297,273
+
+37,414
+
+60,640
+
+395,327
+
+Closing balance as at 31st March 2024
+
+3,323,527
+
+385,367
+
+1,326,302
+
+5,035,196
+
+Opening balance as at 1st January 2025
+
+1,984,085
+
+106,881
+
+1,872,124
+
+3,963,090
+
+Net impairment charge for the period
+
+(373,761)
+
+45,533
+
+68,931
+
+(259,297)
+
+Closing balance as at 31st March 2025
+
+1,610,324
+
+152,414
+
+1,941,055
+
+3,703,793
+
+20
+
+ANALYSIS OF DEPOSITS
+Bank
+As at
+
+Group
+
+31.03.2025
+
+31.12.2024
+
+31.03.2025
+
+31.12.2024
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Current account deposits
+
+92,001,111
+
+97,132,894
+
+90,365,283
+
+96,263,478
+
+Savings deposits
+
+411,600,811
+
+409,389,702
+
+413,409,548
+
+410,597,836
+
+Time deposits
+
+881,151,567
+
+883,991,720
+
+918,422,072
+
+918,928,682
+
+275,162
+
+274,153
+
+275,162
+
+274,153
+
+3,208,211
+
+2,170,970
+
+3,208,211
+
+2,170,970
+
+1,388,236,862
+
+1,392,959,439
+
+1,425,680,276
+
+1,428,235,119
+
+Current account deposits
+
+8,764,831
+
+9,703,793
+
+8,764,831
+
+9,703,793
+
+Savings deposits
+
+74,930,755
+
+69,812,801
+
+74,916,497
+
+69,783,145
+
+Time deposits
+
+251,232,095
+
+242,861,554
+
+250,681,140
+
+242,390,636
+
+107,302
+
+146,540
+
+107,302
+
+146,540
+
+335,034,983
+
+322,524,688
+
+334,469,770
+
+322,024,114
+
+1,723,271,845
+
+1,715,484,127
+
+1,760,150,046
+
+1,750,259,233
+
+3) Due to Customers - By product
+By product-Domestic Currency
+
+Certificates of deposit
+Margin deposits
+Sub total
+By product- Foreign Currency
+
+Margin deposits
+Sub total
+Total
+
+21
+
+FAIR VALUE DISCLOSURE OF FINANCIAL INSTRUMENTS
+Fair value Disclosure of Financial Instruments
+The Group measures the fair values of financial instruments using the following fair value hierarchy, which reflects the significance of the inputs used in making the
+measurements.
+Level 1: Fair value measurement using unadjusted quoted market price
+When available, the fair values of financial instruments are determined using quoted market prices (unadjusted) in active markets for identical instruments. A market
+is regarded as active if quoted prices are readily and regularly available and represent actual and regularly occurring market transactions on an arm’s length basis.
+Accordingly, the fair values of treasury bills and bonds have been derived using the market yields and market prices published by Central Bank of Sri Lanka while fair
+value of quoted equity securities and Sri Lanka Sovereign Bonds have been valued using the quoted market prices as at the reporting date
+
+Level 2: Fair value measurement using significant observable inputs
+In the absence of an active market for a financial instrument, the fair value is determined using quoted market prices in active markets for similar instruments or
+quoted prices for identical or similar instruments in markets that are considered less than active or other valuation techniques in which all significant inputs are
+directly or indirectly observable from market data. The spot and forward premiums available as at the reporting date have been used to estimate the fair value of
+derivative financial instruments while the fair value of unquoted units have been measured using manager’s selling prices. The fair values of financial assets and
+financial liabilities carried at amortised cost have been estimated by comparing the interest rates when they were first recognised with the current market rates of
+similar instruments.
+Level 3: Fair value measurement using significant unobservable inputs
+Financial instruments for which the valuation technique includes inputs that are not observable and the unobservable inputs have a significant effect on the
+instrument’s valuation.
+There are no material changes in the fair value of financial assets categorised under Level 3 compared to the values reported as at 31st December 2024. The Group
+has not changed the valuation models and assumptions used to measure the fair values of Level 3 financial instruments during the period ended 31st March 2025.
+
+FINANCIAL ASSETS & LIABILITIES MEASURED AT FAIR VALUE - FAIR VALUE HIERARCHY
+Bank
+As at 31st March 2025
+
+Level 2
+
+Level 3
+
+Total
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Financial assets measured at fair value
+Derivative financial instruments
+Financial assets measured at fair value through
+profit or loss
+Financial assets measured at fair value through other
+comprehensive income
+Total financial assets measured at fair value
+
+Group
+
+Level 1
+
+-
+
+425,489
+
+-
+
+425,489
+
+3,631,330
+
+-
+
+-
+
+3,631,330
+
+3,631,330
+
+425,489
+
+-
+
+4,056,819
+
+453,603
+453,603
+
+-
+
+453,603
+453,603
+
+Financial liabilities measured at fair value
+Derivative financial instruments
+Total financial assets measured at fair value
+
+-
+
+-
+
+425,489
+
+-
+
+425,489
+
+58,424,609
+
+-
+
+-
+
+58,424,609
+
+58,424,609
+
+425,489
+
+-
+
+58,850,098
+
+453,603
+453,603
+
+-
+
+453,603
+453,603
+
+-
+
+Bank
+As at 31st December 2024
+
+Financial assets measured at fair value
+Derivative financial instruments
+
+Level 1
+Rs 000
+
+Level 2
+Rs 000
+
+-
+
+Financial assets measured at fair value through profit
+or loss
+
+1,835,469
+
+Financial assets measured at fair value through other
+comprehensive income
+Total financial assets measured at fair value
+
+76,913,149
+78,748,618
+
+Financial liabilities measured at fair value
+Derivative financial instruments
+Total financial assets measured at fair value
+
+-
+
+Group
+Level 3
+Rs 000
+
+Total
+Rs 000
+
+375,060
+
+-
+
+375,060
+
+-
+
+-
+
+1,835,469
+
+19,212,141
+19,587,201
+
+184,180
+184,180
+
+96,309,470
+98,519,999
+
+1,573,417
+1,573,417
+
+-
+
+1,573,417
+1,573,417
+
+22
+
+Level 1
+Rs 000
+
+Level 2
+Rs 000
+
+-
+
+Level 3
+Rs 000
+
+Total
+Rs 000
+
+375,060
+
+-
+
+375,060
+
+2,669,597
+
+293,015
+
+-
+
+2,962,612
+
+93,006,546
+95,676,143
+
+19,212,141
+19,880,216
+
+188,612
+188,612
+
+112,407,299
+115,744,971
+
+1,573,417
+1,573,417
+
+-
+
+1,573,417
+1,573,417
+
+-
+
+FAIR VALUE OF FINANCIAL ASSETS AND LIABILITIES CARRIED AT AMORTISED COST
+As at 31st March 2025
+
+Bank
+
+Group
+
+Fair Value
+
+Carrying
+
+Total
+
+Value
+
+Level 1
+
+Level 2
+
+Level 3
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Fair Value
+
+Carrying
+
+Total
+
+Value
+
+Level 1
+
+Level 2
+
+Level 3
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Financial Assets
+Financial assets measured at amortised cost
+Loans and advances to customers
+Debt and other financial instruments
+Total financial assets measured at amortised cost
+
+1,078,106,343
+
+1,095,211,550
+
+-
+
+1,095,211,550
+
+1,124,653,036
+
+1,137,387,972
+
+-
+
+755,847,992
+
+678,005,317
+
+-
+
+73,454,358
+
+-
+
+751,459,675
+
+791,229,744
+
+695,945,733
+
+-
+
+94,622,225
+
+-
+
+1,137,387,972
+790,567,958
+
+1,833,954,335
+
+678,005,317
+
+1,168,665,908
+
+-
+
+1,846,671,225
+
+1,915,882,780
+
+695,945,733
+
+1,232,010,197
+
+-
+
+1,927,955,930
+
+Financial Liabilities
+Financial liabilities measured at amortised cost
+Due to depositors
+
+1,723,271,845
+
+-
+
+1,744,223,070
+
+-
+
+1,744,223,070
+
+1,760,150,046
+
+-
+
+1,785,360,957
+
+-
+
+1,785,360,957
+
+Other borrowings
+
+19,190,121
+
+-
+
+19,190,121
+
+-
+
+19,190,121
+
+21,975,448
+
+-
+
+22,005,612
+
+-
+
+22,005,612
+
+447,543
+
+-
+
+Debt securities issued
+Subordinated term debts
+Total financial liabilities measured at amortised cost
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+28,841,157
+
+-
+
+34,609,973
+
+-
+
+34,609,973
+
+32,709,188
+
+-
+
+38,875,250
+
+-
+
+38,875,250
+
+1,771,303,123
+
+-
+
+1,798,023,164
+
+-
+
+1,798,023,164
+
+1,815,282,225
+
+-
+
+1,846,241,819
+
+-
+
+1,846,241,819
+
+Total
+
+Carrying
+
+Bank
+
+As at 31st December 2024
+
+Group
+
+Fair Value
+
+Carrying
+Value
+
+Level 1
+
+Level 2
+
+Level 3
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Fair Value
+
+Total
+
+Value
+
+Level 1
+
+Level 2
+
+Level 3
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Rs 000
+
+Financial Assets
+Financial assets measured at amortised cost
+Loans and advances to customers
+Debt and other financial instruments
+Total financial assets measured at amortised cost
+
+1,063,675,345
+
+1,075,048,670
+
+-
+
+1,075,048,670
+
+1,104,013,319
+
+1,114,972,987
+
+-
+
+741,761,201
+
+682,838,280
+
+-
+
+75,431,246
+
+-
+
+758,269,526
+
+770,020,546
+
+700,813,971
+
+-
+
+90,791,756
+
+-
+
+1,114,972,987
+791,605,727
+
+1,805,436,546
+
+682,838,280
+
+1,150,479,916
+
+-
+
+1,833,318,196
+
+1,874,033,865
+
+700,813,971
+
+1,205,764,743
+
+-
+
+1,906,578,714
+
+Financial Liabilities
+Financial liabilities measured at amortised cost
+Due to depositors
+
+1,715,484,127
+
+-
+
+1,734,577,618
+
+-
+
+1,734,577,618
+
+1,750,259,233
+
+-
+
+1,769,175,119
+
+-
+
+1,769,175,119
+
+Other borrowings
+
+19,740,135
+
+-
+
+19,740,135
+
+-
+
+19,740,135
+
+19,742,152
+
+-
+
+19,742,152
+
+-
+
+19,742,152
+
+448,108
+
+-
+
+448,108
+
+-
+
+448,108
+
+Debt securities issued
+Subordinated term debts
+Total financial liabilities measured at amortised cost
+
+-
+
+-
+
+-
+
+-
+
+-
+
+28,174,227
+
+-
+
+30,554,562
+
+-
+
+30,554,562
+
+29,967,185
+
+-
+
+32,347,519
+
+-
+
+32,347,519
+
+1,763,398,489
+
+-
+
+1,784,872,315
+
+-
+
+1,784,872,315
+
+1,800,416,678
+
+-
+
+1,821,712,898
+
+-
+
+1,821,712,898
+
+23
+
+

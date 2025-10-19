@@ -1,0 +1,67 @@
+{
+  "company": "HNB_Q1_2025_Enhanced",
+  "source_file": "originals\\hnb-1q-2025-financials.txt",
+  "processed_at": "2025-10-19T10:59:48.436877",
+  "statements": {
+    "balance_sheet": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB_Q1_2025_Enhanced\\balance_sheet.csv",
+      "rows": 15,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2025",
+        "Bank_2024",
+        "Group_2025",
+        "Group_2024"
+      ]
+    },
+    "income_statement": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB_Q1_2025_Enhanced\\income_statement.csv",
+      "rows": 17,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2025",
+        "Bank_2024",
+        "Group_2025",
+        "Group_2024"
+      ]
+    },
+    "cash_flow": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB_Q1_2025_Enhanced\\cash_flow.csv",
+      "rows": 4,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2025",
+        "Bank_2024",
+        "Group_2025",
+        "Group_2024"
+      ]
+    },
+    "equity_statement": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB_Q1_2025_Enhanced\\equity_statement.csv",
+      "rows": 10,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    }
+  },
+  "investment_metrics": {
+    "status": "success",
+    "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\HNB_Q1_2025_Enhanced\\investment_metrics.json"
+  },
+  "validation": {
+    "status": "failed",
+    "error": "Object of type int64 is not JSON serializable"
+  }
+}

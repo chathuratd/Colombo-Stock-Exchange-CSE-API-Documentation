@@ -1,0 +1,20 @@
+FINANCIAL STATEMENTS
+
+Statement of Financial Position
+As at 31 December 2024
+
+                          2024        2023
+                          Rs 000      Rs 000
+ASSETS
+Cash and cash equivalents  52,113      63,356
+Loans and advances       1,078,106   1,063,675
+Total assets             2,149,966   2,078,538
+
+Income Statement
+For the year ended 31 December 2024
+
+                          2024        2023
+                          Rs 000      Rs 000
+Revenue                   500,000     450,000
+Expenses                  300,000     280,000
+Profit                    200,000     170,000

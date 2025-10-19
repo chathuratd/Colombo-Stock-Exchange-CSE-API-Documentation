@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run processor on HNB Annual",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"scripts\\process_single.py",
+				"d:\\Projects\\CSE\\financial_extractor\\originals\\HNB-24-Annual.txt"
+			]
+		}
+	]
+}

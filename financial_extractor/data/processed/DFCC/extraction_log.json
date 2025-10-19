@@ -1,0 +1,59 @@
+{
+  "company": "DFCC",
+  "source_file": "originals\\DFCC-24-Annual.txt",
+  "processed_at": "2025-10-19T10:42:44.642941",
+  "statements": {
+    "balance_sheet": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\DFCC\\balance_sheet.csv",
+      "rows": 13,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    },
+    "income_statement": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\DFCC\\income_statement.csv",
+      "rows": 3,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    },
+    "cash_flow": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\DFCC\\cash_flow.csv",
+      "rows": 7,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    },
+    "equity_statement": {
+      "status": "success",
+      "output_file": "D:\\Projects\\CSE\\financial_extractor\\data\\processed\\DFCC\\equity_statement.csv",
+      "rows": 5,
+      "columns": 5,
+      "column_names": [
+        "Line Item",
+        "Bank_2024",
+        "Bank_2023",
+        "Group_2024",
+        "Group_2023"
+      ]
+    }
+  }
+}
